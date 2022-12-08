@@ -1,0 +1,6 @@
+print ("~~~~~ Table Matematika Nich ~~~~~")
+print ("Pilihan Model Matematika ")
+print ("1. Perkalian")
+print ("2. Pembagian")
+print ("Masukkan model matematika yang diinginkan 1/2 :")
+print ("Menampilkan table matematika dari angka: ")

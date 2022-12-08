@@ -1,0 +1,7 @@
+print ("Masukkan jumlah uang:")
+print ("Ketik 'START' untuk memulai :")
+print ("Apa barang yang akan anda beli? ")
+print ("Sisa uang Anda")
+print ("Apa barang yang akan anda beli?")
+print ("Sisa uang Anda")
+print ("Apa barang yang akan anda beli?")
